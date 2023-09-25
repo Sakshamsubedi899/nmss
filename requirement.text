@@ -1,0 +1,9 @@
+pip install Flask
+pip install chatterbot
+pip install chatterbot-corpus
+pip install -U pip setuptools wheel
+pip install -U spacy
+python -m spacy download en_core_web_sm
+pip install Flask-reCaptcha
+pip install mysql-connector-python
+pip install mysql-connector-python-rf
